@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/3dmatics/static/css/main.881a1a2a.css",
+    "main.js": "/3dmatics/static/js/main.011ee34f.js",
+    "static/js/453.b4f943dd.chunk.js": "/3dmatics/static/js/453.b4f943dd.chunk.js",
+    "static/media/function4_img.png": "/3dmatics/static/media/function4_img.11233c61c3a51a9accf4.png",
+    "static/media/function2_img.png": "/3dmatics/static/media/function2_img.22aa7b4fe4567946d413.png",
+    "static/media/function3_img.png": "/3dmatics/static/media/function3_img.0f32ea86e35049f1a88e.png",
+    "static/media/customer_img.png": "/3dmatics/static/media/customer_img.aad6b41ae3a48812b7b5.png",
+    "static/media/sale_img.png": "/3dmatics/static/media/sale_img.52168cb37e310be457fd.png",
+    "static/media/banner_img.jpg": "/3dmatics/static/media/banner_img.fb6886c5ed06cb90bc3c.jpg",
+    "static/media/function1_img.png": "/3dmatics/static/media/function1_img.cb1505c32f755a53e7c4.png",
+    "static/media/info_img.png": "/3dmatics/static/media/info_img.dd26cf376392c6a4bc5f.png",
+    "static/media/payment_img.png": "/3dmatics/static/media/payment_img.a214fa8710e7bf75a004.png",
+    "static/media/seller_img.png": "/3dmatics/static/media/seller_img.b127d86a88cbb947a86c.png",
+    "static/media/logo.png": "/3dmatics/static/media/logo.7af62f096aae7fd11f33.png",
+    "index.html": "/3dmatics/index.html",
+    "main.881a1a2a.css.map": "/3dmatics/static/css/main.881a1a2a.css.map",
+    "main.011ee34f.js.map": "/3dmatics/static/js/main.011ee34f.js.map",
+    "453.b4f943dd.chunk.js.map": "/3dmatics/static/js/453.b4f943dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.881a1a2a.css",
+    "static/js/main.011ee34f.js"
+  ]
+}
