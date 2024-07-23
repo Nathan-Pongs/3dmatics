@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/3dmatics/static/css/main.881a1a2a.css",
-    "main.js": "/3dmatics/static/js/main.011ee34f.js",
+    "main.js": "/3dmatics/static/js/main.3499151f.js",
     "static/js/453.b4f943dd.chunk.js": "/3dmatics/static/js/453.b4f943dd.chunk.js",
     "static/media/function4_img.png": "/3dmatics/static/media/function4_img.11233c61c3a51a9accf4.png",
     "static/media/function2_img.png": "/3dmatics/static/media/function2_img.22aa7b4fe4567946d413.png",
@@ -16,11 +16,11 @@
     "static/media/logo.png": "/3dmatics/static/media/logo.7af62f096aae7fd11f33.png",
     "index.html": "/3dmatics/index.html",
     "main.881a1a2a.css.map": "/3dmatics/static/css/main.881a1a2a.css.map",
-    "main.011ee34f.js.map": "/3dmatics/static/js/main.011ee34f.js.map",
+    "main.3499151f.js.map": "/3dmatics/static/js/main.3499151f.js.map",
     "453.b4f943dd.chunk.js.map": "/3dmatics/static/js/453.b4f943dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.881a1a2a.css",
-    "static/js/main.011ee34f.js"
+    "static/js/main.3499151f.js"
   ]
 }
